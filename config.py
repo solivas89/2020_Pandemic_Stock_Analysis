@@ -7,3 +7,4 @@ sp500 = ['MSFT','AAPL','AMZN','FB','BBRK.B','GOOGL','GOOG','JNJ','JPM','V','PG',
 nasdaq = ['MSFT','AAPL','AMZN','GOOGL','GOOG', 'FB','INTC','CSCO','CMCSA','PEP','ADBE','NVDA','NFLX',
          'PYPL','COST','AMGN','AVGO','TXN','CHTR','SBUX','QCOM','GILD','MDLZ','FISV','BKNG','INTU',
          'ADP','CME','TMUS','ISRG','MU']
+
